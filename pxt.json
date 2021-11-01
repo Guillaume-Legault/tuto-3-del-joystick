@@ -1,5 +1,5 @@
 {
-    "name": "Tuto 3 DEL Joystick",
+    "name": "Tuto 3 servo Joystick",
     "description": "",
     "dependencies": {
         "core": "*",
